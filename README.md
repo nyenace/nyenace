@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyenace
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on Reaü Time Apps and Game creation..
+- 💞️ I’m looking to collaborate on Real Time Apps and Game creation..
 - 📫 How to reach me codewithnathan@gmail.com
 
 <!---
